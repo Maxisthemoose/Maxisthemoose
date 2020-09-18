@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi, My name is Max 👋
 
 - 🔭 I’m currently working on [discord-uno](https://github.com/Maxisthemoose/discord-uno). A fun NPM Package to handle UNO games.
 - 🌱 I’m currently learning TypeScript and JavaScript.
