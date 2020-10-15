@@ -1,6 +1,6 @@
 ### Hi, My name is Max 👋
 
-- 🔭 I’m currently working on [discord-battleship](https://github.com/Maxisthemoose/discord-battleship). A fun NPM Package to handle BattleShip games.
+- 🔭 I’m currently working on remaking [Exploding Kittens](https://explodingkittens.com/) in TypeScript and Discord.js
 - 🌱 I’m currently learning TypeScript and JavaScript.
 - 👯 I’m looking to collaborate on Anything.
 - 💬 Ask me about JavaScript.
